@@ -44,3 +44,5 @@ Displays student and academic details
 HTML5 – for structuring the web page
 
 <img width="1920" height="1080" alt="Web" src="https://github.com/user-attachments/assets/f4f4759c-1f32-46b9-b84f-87bd7a42994c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9002cd24-4026-4398-b82c-d3de4ed6ba3e" />
